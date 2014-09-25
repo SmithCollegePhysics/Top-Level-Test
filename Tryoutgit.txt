@@ -1,3 +1,8 @@
 Clone this repository and edit this file. Then sync and commit this repository. Feel free to add a repository and try out new things.
 
+<<<<<<< HEAD
 Hi my name is Isabel and I like seals.
+=======
+hello world
+superflake graphite
+>>>>>>> FETCH_HEAD
