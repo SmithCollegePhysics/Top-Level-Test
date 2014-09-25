@@ -1,8 +1,11 @@
-Clone this repository and edit this file. Then sync and commit this repository. Feel free to add a repository and try out new things.
+Clone this repository and edit this is so cool :) (mc) file. Then sync and commit this repository. Feel PHYSIIICCSSS free to add a repository and try out new things <3.
 
 <<<<<<< HEAD
 Hi my name is Isabel and I like seals.
 =======
 hello world
 superflake graphite
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
